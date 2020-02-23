@@ -6,4 +6,5 @@ We currently have 3 organizers involved in scheduling/planning meetups:
 - Kjera (since January 2020?)
 
 To do:
-[] add strengths & responsibilities table
+
+[ ] add strengths & responsibilities table
