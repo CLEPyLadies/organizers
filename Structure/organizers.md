@@ -7,4 +7,5 @@ We currently have 3 organizers involved in scheduling/planning meetups:
 
 To do:
 
-- [] add strengths & responsibilities table
+- [ ] add strengths & responsibilities table
+- [ ] create project issues for these to-do items
