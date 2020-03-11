@@ -5,4 +5,4 @@
 and is a great way for us to get to know each other and also learn more about how to work together in the best way possible.
 - Using the template below, please create your own User Manual and add the link in the table below.
 
-[beetle][User Manual for Me template](user-manual-for-me-template.md)
+:beetle: [User Manual for Me template](user-manual-for-me-template.md)
