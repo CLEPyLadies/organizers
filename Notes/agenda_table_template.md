@@ -2,7 +2,7 @@
 
 ## Emoji for inline lists
 
-:black_square_button:<br>:ballot_box_with_check:
+:black_square_button: To do item<br>:ballot_box_with_check: Done item
 
 ## Blank table
 
