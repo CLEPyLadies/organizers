@@ -28,7 +28,7 @@ _headings marked with a * are optional_
 |HTML/CSS | Intermediate|
 |R | Rusty |
 |C++ | Rusty |
-
+|C | Beginner |
 
 ### Conditions I like to work in *
 
