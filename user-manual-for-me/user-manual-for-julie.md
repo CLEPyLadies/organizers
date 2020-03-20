@@ -1,4 +1,4 @@
-# [emoji] User Manual For Julie
+# [emoji] User Manual for Julie
 
 _headings marked with a * are optional_
 
