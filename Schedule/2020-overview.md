@@ -38,6 +38,6 @@ September
 
 October
 
-Novembe
+November
 
 December
