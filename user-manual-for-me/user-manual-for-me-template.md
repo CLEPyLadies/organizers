@@ -58,4 +58,3 @@ lorem
 ### Other things to know about me *
 
 lorem
-
