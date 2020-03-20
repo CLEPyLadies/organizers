@@ -4,11 +4,11 @@
 
 January
 
-February - (March 5th)
+February - (March 5th) Password Generator
 
-March - 29th
+March - (29th) Book Club: Automate the Boring Stuff with Python, Chapter 0
 
-April
+April - (TBD) Book Club: Automate the Boring Stuff with Python (chapters TBD)
 
 May
 
