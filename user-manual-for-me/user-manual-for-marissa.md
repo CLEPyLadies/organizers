@@ -1,4 +1,4 @@
-# [emoji] User Manual For [NAME]
+# [emoji] User Manual for Marissa
 
 _headings marked with a * are optional_
 
