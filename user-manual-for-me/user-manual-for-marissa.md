@@ -35,7 +35,7 @@ _headings marked with a * are optional_
 Self-directed.
 
 
-### The best way to receive feedback *
+### The best way I receive feedback *
 
 - Please tell me sooner rather than later if you are upset.
 - Please do your best to try to suggest solutions/compromises.
