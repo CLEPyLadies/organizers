@@ -4,10 +4,12 @@ _headings marked with a * are optional_
 
 
 ### The best way to communicate with me
-1. lorem
-1. lorem
-1. lorem
 
+1. text
+1. email
+1. Slack private message
+1. video call
+1. Github comment
 
 ### Tickets or projects that I'm interested in helping out with
 
@@ -31,14 +33,11 @@ _headings marked with a * are optional_
 lorem
 
 
-### The best way to receive feedback *
+### The best way I receive feedback *
 
-1. text
-1. email
-1. Slack private message
-1. video call
-1. Github comment
-
+1. lorem
+1. lorem
+1. lorem
 
 ### Things I'd like to gain from organizing Cleveland PyLadies *
 
